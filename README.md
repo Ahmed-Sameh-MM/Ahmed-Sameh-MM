@@ -1,4 +1,4 @@
-<h1>Hey there <img src="https://github.com/Ahmed-Sameh-MM/Ahmed-Sameh-MM/blob/main/hand_waving.gif" width="45">, I'm Ahmed Abdelhaleem</h1>
+<h1>Hey there <img src="https://github.com/Ahmed-Sameh-MM/Ahmed-Sameh-MM/blob/main/waving_hand.gif" width="45">, I'm Ahmed Abdelhaleem</h1>
 
 <!--
 **TeraByte256/TeraByte256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
