@@ -10,10 +10,10 @@
 Ex-Tech Startup CTO with 2.5 years of software engineering experience.<br>
 
 👯 I’m looking to collaborate on open source projects<br>
-🔭 I'm seeking an internship or part-time opportunities in AI or data science to apply my skills and contribute to impactful projects<br>
+🔭 I'm seeking an internship or part-time opportunities in AI or Data Science to apply my skills and contribute to impactful projects<br>
 🌱 I’m currently pursuing an MSc in AI and Adaptive Systems<br>
 💬 Ask me about App Development, AI, and Data Science<br>
-⚡ I'm passionate about artificial intelligence<br>
+⚡ I'm passionate about Artificial Intelligence<br>
 📫 How to reach me: Email and LinkedIn links below
 
 ### Connect with Me
