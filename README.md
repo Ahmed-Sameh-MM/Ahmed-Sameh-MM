@@ -14,7 +14,7 @@
 👯 I’m looking to collaborate on open source projects<br>
 🌱 I’m currently pursuing an MSc in AI and Adaptive Systems<br>
 💬 Ask me about App Development, AI, and Data Science<br>
-⚡ I'm passionate about Artificial Intelligence<br>
+⚡ I'm passionate about Artificial Intelligence and building stuff!<br>
 📫 How to reach me: Email and LinkedIn links below
 
 ### Connect with Me
