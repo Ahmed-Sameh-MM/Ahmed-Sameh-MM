@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=Your+go-to+Software+Engineer)](https://git.io/typing-svg)
 
 ## 🚀 About Me:
-- Ex-Tech Startup CTO with 2.5 years of software engineering experience.
 - AI System Architect @ Lambdaco
+- Ex-Tech Startup CTO with 2.5 years of software engineering experience.
 <br>
 <!-- 🔭 I'm seeking an internship or part-time opportunities in AI or Data Science to apply my skills and contribute to impactful projects<br> -->
 👯 I’m looking to collaborate on open source projects<br>
