@@ -19,7 +19,7 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-sameh) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ahmed.sameh2043@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-sameh) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ahmed.sameh2043@protonmail.com)
 
 ### Tech Stack:
 [![Tech Skills](https://skillicons.dev/icons?i=dart,flutter,py,sklearn,c,cs,cpp,html,java,js,latex,md,solidity,aws,azure,firebase,gcp,fastapi,nodejs,opencv,qt,nginx,mongodb,mysql,postgres,sqlite,tensorflow,git,notion,postman,arduino,raspberrypi)](https://skillicons.dev)
