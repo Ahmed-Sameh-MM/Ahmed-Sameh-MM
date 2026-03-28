@@ -7,12 +7,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=Your+go-to+Software+Engineer)](https://git.io/typing-svg)
 
 ## 🚀 About Me:
-- AI System Architect @ Lambdaco
-- Ex-Tech Startup CTO with 2.5 years of software engineering experience.
+- Junior DevOps Engineer @ Metricell
+- Ex-Tech Startup CTO with 3 years of software engineering experience.
 <br>
 <!-- 🔭 I'm seeking an internship or part-time opportunities in AI or Data Science to apply my skills and contribute to impactful projects<br> -->
 👯 I’m looking to collaborate on open source projects<br>
-🌱 I’m currently pursuing an MSc in AI and Adaptive Systems<br>
+🌱 I’m an AI & Adaptive Systems MSc Graduate<br>
 💬 Ask me about App Development, AI, and Data Science<br>
 ⚡ I'm passionate about Artificial Intelligence and building stuff!<br>
 📫 How to reach me: Email and LinkedIn links below
@@ -33,8 +33,5 @@
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ahmed-Sameh-MM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Co-created with GPRM (https://gprm.itsvg.in) -->
